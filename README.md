@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming to address real world issues
 - 🌱 I’m currently completing a Bachelor of Computing degree
 - 💞️ I’m looking to collaborate on various projects technical and non-technical
-- 📫 dushimee@uoguelph.ca
+- 📫 edddush@gmail.com
 
 <!---
 Edddush/Edddush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
