@@ -1,7 +1,7 @@
 # @edddush
 
 ## Education (Graduating Spring 2024)
-- Pursuing Bachelor of Computing in Computer Science with a Minor in Mathematics
+- Pursuing Bachelor of Computing in Computer Science with an emphasis in Mathematics
 - Consistently achieving top grades and remaining on the Dean’s Honours List
 
 ## Technical Skills
