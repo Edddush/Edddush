@@ -1,4 +1,4 @@
-# Checkout the portfolio *[eddydushime.com](https://www.eddydushime.com)*.
+# Checkout the portfolio *[eddydushime.com](https://eddydushime.com)*.
 
 ## Education (Graduating Spring 2024)
 - Pursuing Bachelor of Computing in Computer Science with an emphasis in Mathematics
