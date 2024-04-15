@@ -1,4 +1,3 @@
-# @edddush 
 # Checkout the portfolio *[eddydushime.com](https://www.eddydushime.com)*.
 
 ## Education (Graduating Spring 2024)
