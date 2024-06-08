@@ -10,7 +10,7 @@ I am a sotware engineer and creator who enjoys solving challenging problems with
 # ℹ️ Background information
 ## Education
 - Graduated June 2024 with a Bachelor of Computing in Computer Science with an emphasis in Mathematics
-- Consistently achieving top grades and remaining on the Dean’s Honours List for all academic semesters
+- Consistently achieved top grades and remained on the Dean’s Honours List for all academic semesters
 ## Technical Skills
 - Proficient in a wide range of programming languages including C#, Python, Java, Flutter and JavaScript
 - Experienced with frameworks such as Next.js, Node.js, Angular, React, Spring Boot and Flask
