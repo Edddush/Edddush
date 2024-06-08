@@ -1,7 +1,7 @@
 # Checkout my portfolio *[eddydushime.com](https://eddydushime.com)*.
 
-## Education (Graduating Spring 2024)
-- Graduated with a Bachelor of Computing in Computer Science with an emphasis in Mathematics
+## Education
+- Graduated June 2024 with a Bachelor of Computing in Computer Science with an emphasis in Mathematics
 - Consistently achieving top grades and remaining on the Dean’s Honours List for all academic semesters
 
 ## Technical Skills
