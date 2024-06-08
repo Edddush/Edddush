@@ -1,5 +1,10 @@
 # Checkout my portfolio *[eddydushime.com](https://eddydushime.com)*.
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=edddush&show_icons=true&theme=bear" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=edddush&theme=dark&hide_border=true" width="400">
+</p>
+
 ## Education
 - Graduated June 2024 with a Bachelor of Computing in Computer Science with an emphasis in Mathematics
 - Consistently achieving top grades and remaining on the Dean’s Honours List for all academic semesters
