@@ -1,8 +1,8 @@
-# 🤠 &nbsp; HELLO, WELCOME TO MY PROFILE! 
+# 🤠 &nbsp; HELLO, WELCOME TO MY PROFILE!
 
 I am a sotware engineer and creator who enjoys solving challenging problems with software. Feel free to check out my personal website for more information *[eddydushime.com](https://eddydushime.com)*.
 
-## ✨ SKILLS
+## ✨ &nbsp; SKILLS
 ### Languages
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
@@ -22,7 +22,7 @@ I am a sotware engineer and creator who enjoys solving challenging problems with
 ![FIREBASE](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)&nbsp;
 ![AMAZON WEB SERVICES](https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-## STATS
+## 📊 &nbsp; STATS
 <p align="center">
   <a href="https://github.com/edddush?tab=repositories">
     <img src="https://streak-stats.demolab.com?user=edddush&theme=dracula&exclude_days=Sun%2CSat" alt="GitHub Streak" />
