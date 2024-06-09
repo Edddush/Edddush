@@ -1,6 +1,6 @@
 # 🤠 &nbsp; HELLO, WELCOME TO MY PROFILE!
 
-I am a sotware engineer and creator who enjoys solving challenging problems with software. Feel free to check out my personal website for more information *[eddydushime.com](https://eddydushime.com)*.
+I am a sotware engineer and creator who enjoys solving challenging problems with code. Feel free to check out my personal website for more information *[eddydushime.com](https://eddydushime.com)*.
 
 ## ✨ &nbsp; SKILLS
 ### Languages
