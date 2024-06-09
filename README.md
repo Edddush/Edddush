@@ -25,18 +25,18 @@ I am a sotware engineer and creator who enjoys solving challenging problems with
 ## 📊 &nbsp; STATS
 <p align="center">
   <a href="https://github.com/edddush?tab=repositories">
-    <img src="https://streak-stats.demolab.com?user=edddush&theme=dracula&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=edddush&theme=dracula" alt="GitHub Streak" /> <!---&exclude_days=Sun%2CSat (add besides dracula) --->
   </a>
 </p>
 <p align="center">
-   <a href="https://github.com/mathkruger?tab=repositories">
+   <a href="https://github.com/edddush?tab=repositories">
     <img
       align="center"
       height="165"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=edddush&langs_count=8&layout=compact&theme=dracula"
     />
   </a>
-  <a href="https://github.com/mathkruger?tab=repositories">
+  <a href="https://github.com/edddush?tab=repositories">
     <img
       align="center"
       height="165"
